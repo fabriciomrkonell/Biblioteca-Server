@@ -1,4 +1,4 @@
-Acervo - Biblioteca
+Biblioteca
 =========
 
 Projeto em Java - Eclipse
